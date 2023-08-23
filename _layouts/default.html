@@ -34,7 +34,7 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="padding-bottom: 20px; width:60%" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="padding-bottom: 20px; width:60%; margin:auto; display:block" />
         {% endif %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -61,13 +61,16 @@
         <h2>Next meetup</h2>
         <p><strong><span id="newdate">Every 3rd Thursday</span> <span id="showtime"></span></strong> - 
           <a href="https://www.meetup.com/thaipy-bangkok-python-meetup/">Join Us</a>
-          <a href="https://www.meetup.com/thaipy-bangkok-python-meetup/events/294077282">RSVP</a>
+          <a href="https://www.meetup.com/thaipy-bangkok-python-meetup/">RSVP</a>
         </p>
 
         <py-config>
-          packages = ["python-dateutil"]
+          packages = ["python-dateutil", "BeautifulSoup4"]
           [splashscreen]
           enabled = false
+          [[fetch]]
+          from = 'https://openrss.org/www.meetup.com/thaipy-bangkok-python-meetup/events/'
+          to_file = "events.rss"
         </py-config>
   
       <py-script>
@@ -76,6 +79,16 @@
               import calendar
               from dateutil.relativedelta import relativedelta
 
+              from bs4 import BeautifulSoup
+              with open("events.rss") as f:
+                  soup = BeautifulSoup(f.read(), 'xml')
+              entries = soup.find_all('entry')
+
+              for i in entries:
+                title = i.title.text
+                link = i.link['href']
+                summary = i.summary.text
+                print(f'Title: {title}\n\nSummary: {summary}\n\nLink: {link}\n\n------------------------\n') 
               
               next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month)[3][0]
               if next_date &lt; dt.now().date():
@@ -103,6 +116,7 @@
                       await asyncio.sleep(1)
   
               asyncio.ensure_future(main())
+              # Feeds - 
       </py-script>
         </header>
       <section>
@@ -115,7 +129,8 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> &mdash; <a href="view-source:">PyScript Inside!</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> 
+          &mdash; <a href="view-source:https://thaipy.github.io/">PyScript Inside!</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
