@@ -4,9 +4,9 @@ Meetup รายเดือนสำหรับผู้ที่ใช้ภ�
 
 This is for anyone who likes beauty and productivity with their code. 
 
-Follow us on Twitter [@ThaiPy](https://twitter.com/ThaiPy) or [Join our Slack Channel](https://docs.google.com/forms/d/1PNctNZE45Sj0bTRpmoRw4GKIaFWT_9lS10SBlZweiAg).
+Follow us on Facebook [@bangkokpython](https://www.facebook.com/bangkokpython).
 
-Organisers: ...
+Organisers: Dylan Jay, Audchadaporn Lertchanvit, Vincent Casagrande, François Wautier, Andrew Purser
 
 ### Joining the group
 
