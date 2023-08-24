@@ -5,7 +5,7 @@ title: ThaiPys Code of Conduct - Reporting Guide
 
 ## ThaiPy's Code of Conduct - Reporting Guide
 ### Making a report
-If you believe that someone is violating the [code of conduct](/coc) we ask that you report it to by ThaiPy organisers, either in person or via our email contact at [thaipy@gmail.com](mailto:thai@gmail.com). **All reports will be kept confidential.** In some cases where we determine that a public statement is required, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe that someone is violating the [code of conduct](/coc) we ask that you report it to by ThaiPy organisers, either in person or via our email contact at [thaipy@dylanjay.com](mailto:thai@gmail.com). **All reports will be kept confidential.** In some cases where we determine that a public statement is required, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 **If you believe anyone is in physical danger, please notify law enforcement first.**
 

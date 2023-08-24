@@ -22,7 +22,7 @@ ThaiPy organisers may, at their discretion, notify peer groups of breaches of ou
 ### Contact Info
 Website: [thaipy.github.io](https://thaipy.github.io)
 
-Email: [ThaiPy@gmail.com](mailto:ThaiPy@gmail.com)
+Email: [thaipy@dylanjay.com](mailto:thaipy@dylanjay.com)
 
 
 

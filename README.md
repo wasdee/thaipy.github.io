@@ -12,11 +12,12 @@ Organisers: Dylan Jay, Audchadaporn Lertchanvit, Vincent Casagrande, François W
 
 To join our group, visit [our page on Meetup.com](https://www.meetup.com/thaipy-bangkok-python-meetup/).
 
-### Sponsoring
+### Sponsorship
 
-Tech@Agoda is currently the Venue, Pizza and beer sponsor. 
+[Tech@Agoda](https://www.meetup.com/techatagoda/) is currently the Venue, Pizza and beer sponsor. 
+Help us by [signing up to their events](https://forms.office.com/r/zASWwAf4Fg). Every [signup](https://forms.office.com/r/zASWwAf4Fg) helps.
 
-Pizza Mania provides us delicious pizza (and a helpful discount).
+[Pizza Mania](https://www.pizzamania.co.th) provides us delicious pizza (and a helpful discount).
 
 If you are interested in sponsoring after party beers, get in touch.
 
