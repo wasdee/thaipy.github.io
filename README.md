@@ -1,8 +1,8 @@
-**ThaiPy - Bangkok Python Meetup** is a monthly meetup for those using python, learning python of just py-curious. Python is one of more popular programming languages in the word and rising further, being used in fields such as web, science, big data, dev-ops and digital entertainment. We have talks from beginners to advanceก and provide a friendly atmosphere to meet and network with your fellow pythonistas.
+**ThaiPy - Bangkok Python Meetup** is a monthly meetup for those using python, learning pytho just py-curious. Python is the most popular programming languages in the world and rising further, being used in fields such as web, science, AI, big data, dev-ops and digital entertainment. We have talks from beginners to advanced and provide a friendly atmosphere to meet and network with your fellow pythonistas. Talks are in English or Thai.
 
 Meetup รายเดือนสำหรับผู้ที่ใช้ภาษา Python หรือผู้ที่อยากเรียนรู้ หรือแม้แต่ผู้ที่แค่อยากรู้ว่า Python คืออะไร Python เป็นหนึ่งในภาษาเขียนโปรแกรมที่ได้รับความนิยมมากขึ้นเรื่อยๆ ซึ่งถูกนำมาใช้ในด้านของการพัฒนา website, งานด้านวิทยาศาสตร์, ข้อมูลขนาดใหญ่, dev-ops และความบันเทิงระบบดิจิตอล เราจะมีการพูดคุยแนะนำจากระดับ beginners ถึงระดับ advance ในบรรยากาศที่เป็นกันเองเพื่อคุณจะได้ทำความรู้จัก และ network กับ Pythonistas เช่นคุณ
 
-This is for anyone who likes beauty and productivity with their code. 
+This is for anyone who appreciates beauty and productivity in code. 
 
 Follow us on Facebook [@bangkokpython](https://www.facebook.com/bangkokpython).
 
