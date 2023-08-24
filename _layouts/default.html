@@ -68,9 +68,9 @@
           packages = ["python-dateutil", "BeautifulSoup4"]
           [splashscreen]
           enabled = false
-          [[fetch]]
-          from = 'https://openrss.org/www.meetup.com/thaipy-bangkok-python-meetup/events/'
-          to_file = "events.rss"
+          #[[fetch]]
+          #from = 'https://openrss.org/www.meetup.com/thaipy-bangkok-python-meetup/'
+          #files = ["events"]
         </py-config>
   
       <py-script>
@@ -78,17 +78,17 @@
               from datetime import datetime as dt
               import calendar
               from dateutil.relativedelta import relativedelta
+              def read_rss():
+                  from bs4 import BeautifulSoup
+                  with open("events") as f:
+                      soup = BeautifulSoup(f.read(), 'xml')
+                  entries = soup.find_all('entry')
 
-              from bs4 import BeautifulSoup
-              with open("events.rss") as f:
-                  soup = BeautifulSoup(f.read(), 'xml')
-              entries = soup.find_all('entry')
-
-              for i in entries:
-                title = i.title.text
-                link = i.link['href']
-                summary = i.summary.text
-                print(f'Title: {title}\n\nSummary: {summary}\n\nLink: {link}\n\n------------------------\n') 
+                  for i in entries:
+                    title = i.title.text
+                    link = i.link['href']
+                    summary = i.summary.text
+                    print(f'Title: {title}\n\nSummary: {summary}\n\nLink: {link}\n\n------------------------\n') 
               
               next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month)[3][0]
               if next_date &lt; dt.now().date():
