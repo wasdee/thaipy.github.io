@@ -23,6 +23,10 @@ If you are interested in sponsoring after party beers, get in touch.
 ### Code of Conduct
 We have a [code of conduct](/coc) we require all members of the ThaiPy community to adhere to.
 
+### Health and Safety
+We have a [health and safety policy](/safety). TLDR: no current mask or vaccination requirements. 
+If you feel ill, stay home or mask up and test.  
+
 ### Topics, Decks, and Notes
 
 To propose a topic for a future event, just [open an issue](https://github.com/ThaiPy/meetups/issues) and we'll see if it fits on our calendar. Slide decks and notes from past events can also be found at our [meetup repo](https://github.com/ThaiPy/meetups/).

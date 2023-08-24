@@ -1,5 +1,5 @@
 ---
-title: ThaiPys Code of Conduct
+title: ThaiPy Code of Conduct
 ---
 
 ## Code of Conduct
