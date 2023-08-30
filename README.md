@@ -30,4 +30,4 @@ If you feel ill, stay home or mask up and test.
 
 ### Topics, Decks, and Notes
 
-To propose a topic for a future event, just [open an issue](https://github.com/ThaiPy/meetups/issues) and we'll see if it fits on our calendar. Slide decks and notes from past events can also be found at our [meetup repo](https://github.com/ThaiPy/meetups/).
+To propose a topic for a future event, just [open a discussion](https://github.com/thaipy/meetups/discussions) and we'll see if it fits on our calendar. Slide decks and notes from past events can also be found at our [meetup repo](https://github.com/thaipy/meetups/).
