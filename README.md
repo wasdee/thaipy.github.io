@@ -31,3 +31,7 @@ If you feel ill, stay home or mask up and test.
 ### Topics, Decks, and Notes
 
 To propose a topic for a future event, just [open a discussion](https://github.com/thaipy/meetups/discussions) and we'll see if it fits on our calendar. Slide decks and notes from past events can also be found at our [meetup repo](https://github.com/thaipy/meetups/).
+
+### Codewar
+
+We try to organise [CodeWar](./codewar) event's once per year as way to bring different development communities in bangkok togeather.
