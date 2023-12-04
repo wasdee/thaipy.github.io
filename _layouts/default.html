@@ -65,11 +65,12 @@
         </p>
 
         <py-config>
-          packages = ["python-dateutil", "BeautifulSoup4"]
+          packages = ["python-dateutil", "BeautifulSoup4", "requests"]
           [splashscreen]
           enabled = false
           #[[fetch]]
           #from = 'https://openrss.org/www.meetup.com/thaipy-bangkok-python-meetup/'
+          #from = "https://www.meetup.com/thaipy-bangkok-python-meetup/"
           #files = ["events"]
         </py-config>
   
@@ -77,29 +78,28 @@
               import asyncio
               from datetime import datetime as dt
               import calendar
+              import json
+              import requests
               from dateutil.relativedelta import relativedelta
-              def read_rss():
-                  from bs4 import BeautifulSoup
-                  with open("events") as f:
-                      soup = BeautifulSoup(f.read(), 'xml')
-                  entries = soup.find_all('entry')
+              from pyodide.http import pyfetch
 
-                  for i in entries:
-                    title = i.title.text
-                    link = i.link['href']
-                    summary = i.summary.text
-                    print(f'Title: {title}\n\nSummary: {summary}\n\nLink: {link}\n\n------------------------\n') 
-              
-              next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month)[3][0]
-              if next_date &lt; dt.now().date():
-                  next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month+1)[3][0]
+              async def nextevent(): 
+                  page = await pyfetch("https://www.meetup.com/thaipy-bangkok-python-meetup/")
+                  data = json.loads(page.split('<script id="__NEXT_DATA__" type="application/json">')[1].split("</script>")[0])
+                  props = data['props']['pageProps']['__APOLLO_STATE__']
+                  return sorted([(datetime.fromisoformat(p['dateTime']),p) for p in props.values() if hasattr(p, 'get') and p.get(u'dateTime', None)])
 
-              new_year = dt(next_date.year, next_date.month, next_date.day, 18, 30, 0)
-              
-              output_year = f"{next_date.strftime('%a %b %d')}"
-              Element("newdate").write(output_year)
+              def next_repeat():
+                  next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month)[3][0]
+                  if next_date &lt; dt.now().date():
+                      next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month+1)[3][0]
+                  return dt(next_date.year, next_date.month, next_date.day, 18, 30, 0)
 
               async def main():
+                  next_date, next_event = await nextevent()
+                  
+                  output_year = f"{next_date.strftime('%a %b %d')}"
+                  Element("newdate").write(output_year)
                   while True:
                       td = relativedelta(new_year, dt.now())
   
@@ -120,7 +120,6 @@
       </py-script>
         </header>
       <section>
-        <img src="/assets/images/crowd.jpg" alt="Crowd photo" style="padding-bottom: 20px;" />
 
       {{ content }}
 
