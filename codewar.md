@@ -3,6 +3,8 @@ title: CodeWar
 description: Live coding live tournament with Two laptops, two projectors, two teams at a time, one programming task - everyone else has some finger food and a drink and watches. Teams of 3-5 people formed spontaneously.
 ---
 
+![2011 Codewar Screens](assets/images/2011_pycon_screens.jpg)
+
 # CodeWar
 
 
@@ -60,7 +62,6 @@ GummyBear recruitment sponsored the prizes of 5 RasberryPi 4s and Microsoft Azur
 
 ### 2018-12-14 Code War Bangkok 2018!
 
-![Winners 2018](assets/images/2018-winners.jpeg)
 
 ![2018 audience](assets/images/2018-codewar-audience.jpeg)
 
