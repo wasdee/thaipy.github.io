@@ -12,20 +12,22 @@ Rules of a CodeWar
    - winning won't improve your hackerrank
    - winning won't double your salery
    - it is not https://www.codewars.com/
-   - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not enigma code.
+   - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler
 7. Codewar is an 8 Team single elimination tournament
+4. You can use any language you want
 3. Qualification round everyone plays
    - A question will be put on the screen.
    - The first 6 individuals to submit the answer become team leaders and get to pick their team 2-4 others to be their team mates
-4. You can use any language you want
 2. Bring your laptop
    - You will think this is not for you
    - then you will see the problems and want to solve them
-   - you will regret not bringing your laptop
+   - then you will regret not bringing your laptop
 5. 1 Device per team
-   - yes you will have to talk to each other
+   - yes you will have to talk to your team mates
    - the single laptop will be projected on the big screen with a font large enough for everyone to see
-6. Each match is 2 teams with first compute the correct answer and say it wins
+6. First correct wins
+   - Instant knockout
+   - answer has to be computed and said out loud as the answer
    - if no team is finished in 20min the quizmaster maybe choose a winner, extend or declare a dance off
 7. Team's 7 & 8 will be picked from smug teams
    - A smug team is anyone from the audience who finishes before the teams on stage
@@ -40,8 +42,7 @@ Rules of a CodeWar
 
 ### 2020-12-19 Bangkok Codewar 2020
 
-![2020 match table](assets/images/2020-match-table.jpeg)
-![2020 audience](assets/images/2020-audience.jpeg)
+![2020 stage](assets/images/2020_stage.jpg)
 
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
