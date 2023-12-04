@@ -89,14 +89,14 @@
                   props = data['props']['pageProps']['__APOLLO_STATE__']
                   return sorted([(datetime.fromisoformat(p['dateTime']),p) for p in props.values() if hasattr(p, 'get') and p.get(u'dateTime', None)])
 
-              def next_repeat():
+              async def next_repeat():
                   next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month)[3][0]
                   if next_date &lt; dt.now().date():
                       next_date = calendar.Calendar(3).monthdatescalendar(dt.now().year, dt.now().month+1)[3][0]
                   return dt(next_date.year, next_date.month, next_date.day, 18, 30, 0)
 
               async def main():
-                  next_date, next_event = await nextevent()
+                  next_date, next_event = await next_repeat()
                   
                   output_year = f"{next_date.strftime('%a %b %d')}"
                   Element("newdate").write(output_year)
