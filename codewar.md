@@ -49,6 +49,13 @@ Thanks to effective covid measures 2020 was covid free enough for us to hold an 
 
 ### 2019-12-13 Bangkok Christmas CodeWar 2019
 
+![2019 audience](assets/images/2019_audience.jpg)
+
+<video width="320" height="240" controls>
+  <source src="assets/images/2019_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Held at [Kaidee on Friday the 13th](https://www.ticketmelon.com/codewarfederation/christmascodewar2019?fbclid=IwAR2WsAOH7YhBL81jpcUOH84i8r1zYfn5vdimmoLJrjrZmM_g2P9JS9zk70Q) with 12 different dev meetups involved.
 GummyBear recruitment sponsored the prizes of 5 RasberryPi 4s and Microsoft Azure sponsored beers and food.
 
@@ -62,17 +69,24 @@ Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Com
 
 [more pictures](https://www.facebook.com/codewarfederation/posts/120601169358416)
 
-### 2018 PyCon Thailand Warm up event
+### 2018 PyCon Thailand
 
-In 2018, Dylan Jay created a CodeWar as a warm up event to the first PyCon Thailand.
+![2018 pycon codewar](assets/images/2018_pycon.jpg)
 
-Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants.
+In 2018, Dylan Jay created a [CodeWar as a warm up event to the first PyCon Thailand](https://2019.th.pycon.org/pycon2018/code-war/index.html).
+
+Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
+
+[youtube](https://m.facebook.com/PyConThailand/videos/code-war-competition-is-starting-now/362179677639589/)
 
 ### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
+
+![2016 BKKHack codewar](assets/images/2016_bkkhackcodewar.jpg)
 
 In 2014 Dylan Jay moved to Bangkok and started the first Python Meetup (ThaiPy), the BKK Hack Night and also introduced the
 CodeWar concept at the [end of 2016 as a social event for the BKK Hack Night](https://www.meetup.com/en-AU/bkkhack/events/cxdkxlyvqbmc/).
 
+Memorable by getting kicked out of the venue at midnight and having to run the final at the regular meetup the following month.
 
 ### 2012-2013 PyConAU (Hobart)
 
@@ -82,17 +96,16 @@ There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com
 
 Rules were the same except they dropped the one device per team rule. Not sure why.
 
-
 In 2013 the PyCon Hobart organizers felt the need change the rules to make it a long cryptic adventure that everyone played from the audience which ended up removing all drama, pace and fun out of the event. PyConAu dropped codewars after this.
 
-### 2010- Kiwi PyCon warm up party
+### 2010-2019 Kiwi PyCon
 
 From 2010 Kiwi PyCon also included the code war as a warm up event and continued to do so every year. 
 In [2014 they messed with the format](https://wellington.pm.org/articles/codewars2014/) so all teams did all questions and noone got to see anyone's code. They didn't do this again.
 
 Links to other kiwi pycon codewar's [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2019](https://python.nz/kiwipycon.x.codewars)
 
-### 2010-2011 PyConAU warn up party (Sydney)
+### 2010-2011 PyConAU (Sydney)
 
 ![2010 full room](assets/images/2010-fullroom.jpg)
 
@@ -109,7 +122,7 @@ peacefully via a danceoff
 [more pictures](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
 
-### 2008-2011?? WebDU warm up party
+### 2008-2011 WebDU Sydney
 
 ![robin hillard](assets/images/Robin-Hilliard-Code-Wars-MC.webp)
 ![2020 Trophy](assets/images/code-wars-trophy-2010.webp)
