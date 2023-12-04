@@ -33,7 +33,8 @@ Rules of a CodeWar
 
 ## What are the questions like?
 
-TODO
+![2010 question](assets/images/code-wars-challenge-1b-2010.webp)
+![2010 question2](assets/images/codewars-challenge-2-2010.webp)
 
 ## History
 
@@ -53,11 +54,11 @@ GummyBear recruitment sponsored the prizes of 5 RasberryPi 4s and Microsoft Azur
 
 ### 2018-12-14 Code War Bangkok 2018!
 
-Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Company" coworking space bangkok with over 100 attending.
-
 ![Winners 2018](assets/images/2018-winners.jpeg)
 
 ![2018 audience](assets/images/2018-codewar-audience.jpeg)
+
+Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Company" coworking space bangkok with over 100 attending.
 
 [more pictures](https://www.facebook.com/codewarfederation/posts/120601169358416)
 
@@ -67,7 +68,7 @@ In 2018, Dylan Jay created a CodeWar as a warm up event to the first PyCon Thail
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants.
 
-## 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
+### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
 
 In 2014 Dylan Jay moved to Bangkok and started the first Python Meetup (ThaiPy), the BKK Hack Night and also introduced the
 CodeWar concept at the [end of 2016 as a social event for the BKK Hack Night](https://www.meetup.com/en-AU/bkkhack/events/cxdkxlyvqbmc/).
@@ -75,11 +76,12 @@ CodeWar concept at the [end of 2016 as a social event for the BKK Hack Night](ht
 
 ### 2012-2013 PyConAU (Hobart)
 
+![pyconau-2012](assets/images/2012-pyconau.webp)
+
 There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com/2012/08/codewars-at-pycon-au-2012/?fbclid=IwAR0g1Dc2G6aO7UQTRaiND_WWXHfLNsQWQmNJcHx4sImnTiLmp8hGaWKVuNA)
 
 Rules were the same except they dropped the one device per team rule. Not sure why.
 
-![pyconau-2012](assets/images/2012-pyconau.webp)
 
 In 2013 the PyCon Hobart organizers felt the need change the rules to make it a long cryptic adventure that everyone played from the audience which ended up removing all drama, pace and fun out of the event. PyConAu dropped codewars after this.
 
@@ -92,11 +94,11 @@ Links to other kiwi pycon codewar's [2011](https://www.scoop.co.nz/stories/BU110
 
 ### 2010-2011 PyConAU warn up party (Sydney)
 
+![2010 full room](assets/images/2010-fullroom.jpg)
+
 Dylan Jay and Andy Stewart fell in love with the CodeWar concept and when the first ever PyConAU happenin in sydney
 2010 they proposed it as [a friday night warmup event](http://anyvite.com/byq1czpyyc) before the conference start on the saturday. It was hosted at Atlassian.
 
-![2010 full room](assets/images/2010-fullroom.jpg)
-  - https://www.flickr.com/photos/66855660@N07/with/6087255630/ 
 
 
 It was after this event the rule of the answer having to be both "said" and "on screen". The ambiguous result was resolved
@@ -104,13 +106,15 @@ peacefully via a danceoff
 
 [2010 danceoff on youtube](https://www.youtube.com/watch?v=gH4S6WfgWwkt)
 
-- https://hiveminer.com/Tags/codewar. 
+[more pictures](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
 
 ### 2008-2011?? WebDU warm up party
 
-CodeWar was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams). 
+![robin hillard](assets/images/Robin-Hilliard-Code-Wars-MC.webp)
+![2020 Trophy](assets/images/code-wars-trophy-2010.webp)
 
+CodeWar was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams). 
 
 Original rules were the same except
 - There was no qualification round. You just signed up
