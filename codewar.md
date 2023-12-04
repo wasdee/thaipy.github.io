@@ -7,7 +7,7 @@ description: Live coding live tournament with Two laptops, two projectors, two t
 
 
 Rules of a CodeWar
-1. Codewar is for fun
+1. War means Fun!
    - winning doesn't make you a code ninja
    - winning won't improve your hackerrank
    - winning won't double your salery
@@ -16,13 +16,13 @@ Rules of a CodeWar
 7. Codewar is an 8 Team single elimination tournament
 3. Qualification round everyone plays
    - A question will be put on the screen.
-   - The first 6 individuals to submit the answer become team leaders and get to pick their team.
+   - The first 6 individuals to submit the answer become team leaders and get to pick their team 2-4 others to be their team mates
 4. You can use any language you want
 2. Bring your laptop
    - You will think this is not for you
    - then you will see the problems and want to solve them
    - you will regret not bringing your laptop
-5. Teams are 3-5 players with a single laptop
+5. 1 Device per team
    - yes you will have to talk to each other
    - the single laptop will be projected on the big screen with a font large enough for everyone to see
 6. Each match is 2 teams with first compute the correct answer and say it wins
@@ -49,9 +49,7 @@ Thanks to effective covid measures 2020 was covid free enough for us to hold an 
 
 ### 2019-12-13 Bangkok Christmas CodeWar 2019
 
-![2019 audience](assets/images/2019_audience.jpg)
-
-<video width="320" height="240" controls>
+<video style="max-width:100%" controls>
   <source src="assets/images/2019_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
