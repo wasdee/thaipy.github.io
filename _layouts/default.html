@@ -101,7 +101,7 @@
                   output_year = f"{next_date.strftime('%a %b %d')}"
                   Element("newdate").write(output_year)
                   while True:
-                      td = relativedelta(new_year, dt.now())
+                      td = relativedelta(next_date, dt.now())
   
                       output = (
                           "- in "
