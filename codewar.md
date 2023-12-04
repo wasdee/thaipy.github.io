@@ -105,12 +105,11 @@ Links to other kiwi pycon codewar's [2011](https://www.scoop.co.nz/stories/BU110
 
 ### 2010-2011 PyConAU (Sydney)
 
+![2011 pycon](assets/images/2011_pycon.jpg)
 ![2010 full room](assets/images/2010-fullroom.jpg)
 
 Dylan Jay and Andy Stewart fell in love with the CodeWar concept and when the first ever PyConAU happenin in sydney
 2010 they proposed it as [a friday night warmup event](http://anyvite.com/byq1czpyyc) before the conference start on the saturday. It was hosted at Atlassian.
-
-
 
 It was after this event the rule of the answer having to be both "said" and "on screen". The ambiguous result was resolved
 peacefully via a danceoff
