@@ -94,9 +94,7 @@ Memorable by getting kicked out of the venue at midnight and having to run the f
 
 ![pyconau-2012](assets/images/2012-pyconau.webp)
 
-There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com/2012/08/codewars-at-pycon-au-2012/?fbclid=IwAR0g1Dc2G6aO7UQTRaiND_WWXHfLNsQWQmNJcHx4sImnTiLmp8hGaWKVuNA)
-
-Rules were the same except they dropped the one device per team rule. Not sure why.
+There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com/2012/08/codewars-at-pycon-au-2012/?fbclid=IwAR0g1Dc2G6aO7UQTRaiND_WWXHfLNsQWQmNJcHx4sImnTiLmp8hGaWKVuNA). Rules were the same except they dropped the one device per team rule. Not sure why.
 
 In 2013 the PyCon Hobart organizers felt the need change the rules to make it a long cryptic adventure that everyone played from the audience which ended up removing all drama, pace and fun out of the event. PyConAu dropped codewars after this.
 
