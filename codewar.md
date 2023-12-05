@@ -50,9 +50,7 @@ Rules of a CodeWar
 
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcodewarfederation%2Fvideos%2F1016001628885678%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-[codewar.info](https://codewar.info)
+[codewar.info](https://codewar.info) [Facebook live stream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) [promo video](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
 
 ### 2019-12-13 Bangkok Christmas CodeWar 2019
 
@@ -81,7 +79,7 @@ In 2018, Dylan Jay created a [CodeWar as a warm up event to the first PyCon Thai
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
 
@@ -120,7 +118,7 @@ Dylan Jay and Andy Stewart fell in love with the CodeWar concept and when the fi
 It was after this event the rule of the answer having to be both "said" and "on screen". The ambiguous result was resolved
 peacefully via a danceoff
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gH4S6WfgWwk?si=K86oxkurULCvK8RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/gH4S6WfgWwk?si=K86oxkurULCvK8RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Graeme Cross: 2011 Codewar](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
