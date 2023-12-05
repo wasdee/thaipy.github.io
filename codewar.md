@@ -12,10 +12,9 @@ description: Live coding live tournament with Two laptops, two projectors, two t
 Rules of a CodeWar
 1. War means Fun!
    - winning doesn't make you a code ninja
-   - winning won't improve your hackerrank
+   - winning won't improve your hackerrank (or https://www.codewars.com/... unrelated)
    - winning won't double your salery
-   - it is not https://www.codewars.com/
-   - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler
+   - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler.
 2. You can use **any language** you want
 3. Qualification round everyone plays
    - A question will be put on the screen.
@@ -28,11 +27,11 @@ Rules of a CodeWar
    - yes you will have to talk to your team mates
    - the single laptop will be projected on the big screen with a font large enough for everyone to see
 6. First to answer wins
-   - Instant knockout
-   - answer has to be computed and said out loud as the answer
-   - if no team is finished in 20min the quizmaster maybe choose a winner, extend or declare a dance off
+   - Instant knockout round betweeb 2 teams on stage
+   - The answer has to be computed and said out loud as the answer
+   - if no win inside 20min the codemaster can choose a winner, extend the time or declare a dance off at their discreation.
 7. Team's 7 & 8 will be picked from smug teams
-   - A smug team is anyone from the audience who finishes before the teams on stage
+   - A "smug team" is anyone from the audience who finishes before the teams on stage
    - This gives you a second chance to compete
 8. Last team stading wins.
    - Codewar is an 8 Team single elimination tournament
@@ -51,7 +50,7 @@ Rules of a CodeWar
 
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
-[Full event stream](https://www.facebook.com/codewarfederation/videos/1016001628885678)
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcodewarfederation%2Fvideos%2F1016001628885678%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 [codewar.info](https://codewar.info)
 
@@ -82,7 +81,7 @@ In 2018, Dylan Jay created a [CodeWar as a warm up event to the first PyCon Thai
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
 
-[youtube](https://m.facebook.com/PyConThailand/videos/code-war-competition-is-starting-now/362179677639589/)
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
 
@@ -121,9 +120,9 @@ Dylan Jay and Andy Stewart fell in love with the CodeWar concept and when the fi
 It was after this event the rule of the answer having to be both "said" and "on screen". The ambiguous result was resolved
 peacefully via a danceoff
 
-[2010 danceoff on youtube](https://www.youtube.com/watch?v=gH4S6WfgWwkt)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gH4S6WfgWwk?si=K86oxkurULCvK8RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[more pictures](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
+[Graeme Cross: 2011 Codewar](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
 
 ### 2008-2011 WebDU Sydney
