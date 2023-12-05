@@ -7,6 +7,7 @@ description: Live coding live tournament with Two laptops, two projectors, two t
 
 # CodeWar
 
+[Facebook](https://www.facebook.com/codewarfederation)
 
 Rules of a CodeWar
 1. War means Fun!
@@ -15,25 +16,27 @@ Rules of a CodeWar
    - winning won't double your salery
    - it is not https://www.codewars.com/
    - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler
-7. Codewar is an 8 Team single elimination tournament
-4. You can use any language you want
+2. You can use **any language** you want
 3. Qualification round everyone plays
    - A question will be put on the screen.
    - The first 6 individuals to submit the answer become team leaders and get to pick their team 2-4 others to be their team mates
-2. Bring your laptop
+4. Bring your laptop
    - You will think this is not for you
    - then you will see the problems and want to solve them
    - then you will regret not bringing your laptop
 5. 1 Device per team
    - yes you will have to talk to your team mates
    - the single laptop will be projected on the big screen with a font large enough for everyone to see
-6. First correct wins
+6. First to answer wins
    - Instant knockout
    - answer has to be computed and said out loud as the answer
    - if no team is finished in 20min the quizmaster maybe choose a winner, extend or declare a dance off
 7. Team's 7 & 8 will be picked from smug teams
    - A smug team is anyone from the audience who finishes before the teams on stage
    - This gives you a second chance to compete
+8. Last team stading wins.
+   - Codewar is an 8 Team single elimination tournament
+
 
 ## What are the questions like?
 
@@ -49,6 +52,8 @@ Rules of a CodeWar
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
 [Full event stream](https://www.facebook.com/codewarfederation/videos/1016001628885678)
+
+[codewar.info](https://codewar.info)
 
 ### 2019-12-13 Bangkok Christmas CodeWar 2019
 
