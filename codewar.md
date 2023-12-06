@@ -16,6 +16,7 @@ Rules of a CodeWar
    - winning won't double your salery
    - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler.
 2. You can use **any language** you want
+   - even excel
 3. Qualification round everyone plays
    - A question will be put on the screen.
    - The first 6 individuals to submit the answer become team leaders and get to pick their team 2-4 others to be their team mates
@@ -96,7 +97,8 @@ In 2018, Dylan Jay created a [CodeWar as a warm up event to the first PyCon Thai
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<!-- 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe> -->
 
 ### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
 
