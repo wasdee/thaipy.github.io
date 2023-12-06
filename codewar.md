@@ -50,6 +50,23 @@ Rules of a CodeWar
 
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
+All these communities were involved
+<ul class="communities">
+<li><a target="_blank" href="https://www.meetup.com/bkkhack/">BKK/hack</a></li>
+<li><a target="_blank" href="https://www.facebook.com/thebkkweb/">"BKK WEB"</a></li>
+<li><a target="_blank" href="https://www.facebook.com/codesanookpage/">CodeSanook</a></li>
+<li><a target="_blank" href="https://www.facebook.com/girlswhodev/">Girls who Dev</a></li>
+<li><a target="_blank" href="https://www.meetup.com/GraphQL-Bangkok/">GraphQL Bangkok</a></li>
+<li><a target="_blank" href="https://www.facebook.com/Katinrun/">Katinrun</a></li>
+<li><a target="_blank" href="https://www.meetup.com/Bangkok-NET-Users-Group/">Bangkok .NET Users Group</a></li>
+<li><a target="_blank" href="https://www.facebook.com/pyladiesbkk/">Pyladies BKK</a></li>
+<li><a target="_blank" href="https://www.meetup.com/bangkok-rb/">Ruby Tuesday</a></li>
+<li><a target="_blank" href="https://www.facebook.com/StupidHackTH/">Stupid Hackathon</a></li>
+<li><a target="_blank" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup">ThaiPy</a></li>
+<li><a target="_blank" href="https://www.thaiprogrammer.org/">Thai Programmer's Association</a></li>
+<li><a target="_blank" href="https://www.facebook.com/web.developer.th/">Web Developers Thailand</a></li>
+</ul>
+
 [codewar.info](https://codewar.info) [Facebook live stream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) [promo video](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
 
 ### 2019-12-13 Bangkok Christmas CodeWar 2019
